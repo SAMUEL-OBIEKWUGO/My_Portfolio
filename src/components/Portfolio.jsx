@@ -108,7 +108,7 @@ const Portfolio = () => {
                   </div>
                   <div>
                     <a
-                      href="https://github.com/AmooOluwabukola/My-Portfolio.git"
+                      href="https://github.com/SAMUEL-OBIEKWUGO/My_Portfolio"
                       className="text-decoration-none text-dark pe-1 cardLink website-button"
                     >
                       GitHub <IoLogoGithub />
