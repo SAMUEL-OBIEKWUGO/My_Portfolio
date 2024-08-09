@@ -100,7 +100,7 @@ const Portfolio = () => {
                   <div>
                     {" "}
                     <a
-                      href="https://amoooluwabukolasportfolio-oluwabukolas-projects.vercel.app/"
+                      href="my-portfolio-git-main-samuelobiekwugos-projects.vercel.app"
                       className="text-decoration-none text-dark pe-1 cardLink website-button"
                     >
                       Open <FaExternalLinkAlt />
